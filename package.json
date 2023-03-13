@@ -1,0 +1,23 @@
+{
+  "name": "projetointegrador-back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eugeniialima/projetoIntegrador-back.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eugeniialima/projetoIntegrador-back/issues"
+  },
+  "homepage": "https://github.com/Eugeniialima/projetoIntegrador-back#readme",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
