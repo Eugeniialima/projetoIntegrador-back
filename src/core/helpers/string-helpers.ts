@@ -1,0 +1,1 @@
+export const IsEmpty=(str:string|undefined):boolean=>(typeof str==='string'&&(str==undefined||str.trim().length==0)) || str==undefined;
